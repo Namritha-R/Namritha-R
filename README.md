@@ -1,9 +1,51 @@
-# 💫 About Me:
-Hello!<br>A second-year IT student, interested in both cybersecurity and web development. I enjoy developing impactful projects - from reservation systems to web applications, and always striving to improve in DSA, Python, and Java.<br><br>Working on now:<br>An Income & Expense Tracker in Java.<br>Advanced techniques of web development.<br>Love:<br>Tackling coding challenges.<br>Developing innovative solutions to real-world problems.<br>
+# Hi, I'm Namritha 👋
 
+B.Tech Information Technology student at **PSG College of Technology** with a strong interest in **backend systems, full-stack development, and distributed technologies**.  
+I enjoy building real-world engineering projects that solve practical problems and exploring system design concepts.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+📌 **IEEE Author** – Published research on a gesture-controlled Bluetooth air mouse using embedded sensors.
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **GenSec ERP – Security Incident Response Platform**  
+Enterprise-style ERP system for managing security incidents with role-based access control and lifecycle tracking.
+
+🔹 **Blockchain-Based Herb Traceability Network**  
+Permissioned blockchain network using Hyperledger Fabric for tamper-proof herbal supply chain tracking.
+
+🔹 **SkillBridge – Peer-to-Peer Skill Sharing Platform**  
+Full-stack platform connecting tutors and learners with authentication, booking workflows, and session management.
+
+🔹 **File Transfer System**  
+Secure file-sharing system enabling direct peer uploads with logging and REST API-based file management.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Java, Python, C, JavaScript  
+**Frontend:** React, HTML5, CSS3  
+**Backend:** Node.js, Express, REST APIs  
+**Databases:** PostgreSQL, MongoDB  
+**Blockchain:** Hyperledger Fabric  
+**Tools:** Git, Docker
+
+---
+
+## 📚 Current Focus
+
+- Strengthening **Data Structures & Algorithms**
+- Exploring **backend system design**
+- Building scalable full-stack applications
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/Namritha-R  
+LinkedIn: https://www.linkedin.com/in/namritha-r12/
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -11,4 +53,3 @@ Hello!<br>A second-year IT student, interested in both cybersecurity and web dev
 ---
 [![](https://visitcount.itsvg.in/api?id=Namritha-R&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
